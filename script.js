@@ -14,4 +14,4 @@ window.addEventListener('scroll', () => {
     hill5.style.left = val * 1.5 + "px";
     hill4.style.left = val * -1.5 + "px";
     hill1.style.top = val * 0.9 + "px";
- });
+});
